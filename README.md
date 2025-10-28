@@ -18,4 +18,4 @@ A simple and responsive Body Mass Index (BMI) calculator built using **HTML**, *
 ## 📂 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git@github.com:ajitsahu-057/BMI-calculator.git
